@@ -34,6 +34,7 @@ Make sure you have the following installed:
 1. Clone the repository or copy the code files.
    ```bash
    git clone https://github.com/MohansGopi/Role-Based-Access-Control-RBAC-UI
+   cd Role-Based-Access-Control-RBAC-UI
    ```
 3. Install the required Python libraries:
    ```bash
