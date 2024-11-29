@@ -38,7 +38,7 @@ Make sure you have the following installed:
    ```
 3. Install the required Python libraries:
    ```bash
-   pip install flask flask-jwt-extended bcrypt
+   pip install -r requirements.txt
    ```
 
 4. Add your secret keys in a separate file named `secret_key.py`:
