@@ -8,3 +8,9 @@ User registration and login
 Password hashing and salting
 Session management
 JWT-based authentication
+
+Installation:
+
+Clone the repository:
+Bash
+git clone https://github.com/your-username/flask-auth-example.git
