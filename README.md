@@ -41,7 +41,7 @@ Make sure you have the following installed:
    pip install -r requirements.txt
    ```
 
-4. Access the `secret_key.py` file and add your secret_key.py:
+4. Open the `secret_key.py` file and add your secret_keys:
    ```python
    # secret_key.py
    jwt_secret_key = "your_jwt_secret_key"
